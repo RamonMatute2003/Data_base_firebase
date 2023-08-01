@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Data_base_firebase</string>
+    <string-array name="gender">
+        <item>Masculino</item>
+        <item>Femenino</item>
+    </string-array>
+</resources>
